@@ -48,3 +48,62 @@ vim 에디터를 사용하여 편집
 
 
 ![배경화면](command.assets/99A8DC3B5DE4555621-1597904187463.jpg)
+
+
+
+#### / 
+
+최상단 root directory로 이동
+
+#### tab key
+
+자동완성
+
+#### git add
+
+경로에 추가
+
+#### git commit -m "commit할 내용"
+
+커밋하기
+
+#### git log
+
+git의 commits 기록을 볼 수 있음
+
+#### touch
+
+파일을 만드는 명령어
+
+
+
+#### 경로
+
+working dir -> (add) staging area -> (commit) lcoa repository .git/
+
+#### vi 파일이름
+
+파일 내부에 내용을 수정/저장
+
+##### i
+
+쓰기모드
+
+##### esc
+
+모드 탈출
+
+##### :wq
+
+저장 및 나가기
+
+##### :q
+
+저장하지 않고 그낭 나가기
+
+#### git remote(리모트 저장소)  add(추가) orgin (별명은 orgin) 주소 (원래주소)
+
+## 사이트
+
+coursera-> 강의 공유
+Edx ->하버드,스탠포드...CS50x
